@@ -1,7 +1,7 @@
 #program to subtract of two matrices.
 a=[]
-m=int(input('enter the no. of rows: '))
-n=int(input('enter no. of columns: '))
+m=int(input('enter the no of rows: '))
+n=int(input('enter no of columns: '))
 for i in range(m):
     row=[]
     for j in range(n):
